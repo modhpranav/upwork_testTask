@@ -11,7 +11,7 @@
 ### Setup Instructions
 1. **Clone the repository** (optional if you download the project as a zip file):
    ```
-   git clone https://yourrepositorylink.com/upwork_testTask.git
+   git clone https://github.com/modhpranav/upwork_testTask.git
    cd upwork_testTask
    ```
 2. **Create virtualenv** (optional if you want to use the existing virtualenv):
